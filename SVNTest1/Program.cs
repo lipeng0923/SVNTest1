@@ -11,6 +11,7 @@ namespace SVNTest1
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("hello");
         }
     }
 }
